@@ -5,4 +5,383 @@
   * @version 1.0
 */
 
-@import url('https://raw.githubusercontent.com/Coniferr/Profile-Revert/main/src/main.css');
+/*Revert role changes*/
+
+#app-mount .role-2TIOKu {
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 9999px;
+    background-color: transparent ;
+    padding-left: 0px;
+  }
+  
+  #app-mount .roleName-2ZJJYR {
+    overflow: unset;
+  }
+  
+  #app-mount .addButton-1_dZYu {
+    border-color: #4F545C;
+    padding:  3px !important;
+  }
+  
+  /*Pictures*/
+  
+  #app-mount .body-2wLx-E::-webkit-scrollbar  {
+    width: 0px !important;
+  }
+  
+  #app-mount .popoutBanner-3cqRD9,
+  #app-mount .popoutBannerPremium-3i5EEI {
+    background-color: var(--background-tertiary) !important;
+    background-image: url(/) !important;
+    height: 60px;
+  }
+  
+  #app-mount .avatarPositionPremium-1zPBq9 {
+    top: 16px;
+  }
+  
+  #app-mount .userPopout-2j1gM4,
+  #app-mount .popoutBannerPremium-3i5EE,
+  #app-mount .popoutBanner-3cqRD9 {
+    width: 275px !important;
+  }
+  
+  #app-mount .userPopout-2j1gM4,
+  #app-mount .profileBannerPreview-3mLIdO,
+  #app-mount .topSection-13QKHs {
+    background-color: var(--background-tertiary);
+  }
+  
+  #app-mount .avatar-2Vndt_,
+  #app-mount .avatar-3QF_VA,
+  #app-mount .avatarUploaderInner-p38nm2 {
+    border-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
+  }
+  
+  #app-mount .avatarWrapper-eenWra,
+  #app-mount .avatarUploader-qEFQS2 {
+    left: calc(50% - 88px/2);
+  }
+  
+  #app-mount .headerTop-3GPUSF {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+  }
+  
+  #app-mount .headerTopWithCustomStatus-1aNSNd {
+    padding-bottom: 5px !important;
+  }
+  
+  #app-mount .nickname-t08Mck,
+  #app-mount .headerTagNoNickname-3tGHj6 {
+    font-size: 16px !important;
+  }
+  
+  #app-mount .customStatus-3XAoF9 {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  #app-mount .customStatus-3XAoF9 .customStatusEmoji-1bFQdD {
+    display: inline-block;
+    float: unset;
+  }
+  
+  #app-mount .customStatus-oN4ZZY .customStatusEmoji-3a2-Zo.customStatusSoloEmoji-1tDhmL {
+    margin: 0 auto;
+  }
+  
+  #app-mount .divider-1wtgZ3 {
+    height: 0;
+    margin: 0;
+  }
+  
+  #app-mount .aboutMeSection-PUghFQ {
+    background-color: var(--background-secondary);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    text-align: left;
+  }
+  
+  #app-mount .activity-1gTu-L {
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  
+  #app-mount .aboutMeTitle-3pjiS7 {
+    text-align: left;
+    display: block;
+    margin-bottom: 2px;
+  }
+  
+  #app-mount .body-2wLx-E,
+  #app-mount .popoutInfo-1A9dyK {
+    padding: 0;
+    padding-right: 0 !important;
+  }
+  
+  #app-mount .newPopoutActivityStyles .platformIcon-k3yytQ {
+    display: none !important;
+  }
+  
+  #app-mount .bodyInnerWrapper-2bQs1k,
+  #app-mount .footer-3naVBw,
+  #app-mount .body-1Ukv50 {
+    background-color: var(--background-secondary);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  #app-mount .body-1Ukv50 {
+    padding: 0;
+  }
+  
+  .theme-light .footer-3naVBw {
+    border-top: 1px solid #BCBEC3;
+  }
+  
+  .theme-dark .footer-3naVBw {
+    border-top: 1px solid #222528;
+  }
+  
+  .theme-dark .userInfoSection-2u2hir+.userInfoSection-2u2hir,
+  .theme-dark .connectedAccount-1xKpli {
+    border-color: #202225;
+  }
+  
+  #app-mount .tabBarContainer-sCZC4w {
+    border-top: 1px solid var(--background-modifier-accent);
+    border-bottom-width: 0px;
+  }
+  
+  #app-mount .noTabBar-2Q-iE_ {
+    border-width: 0px;
+  }
+  
+  #app-mount .iconActiveMedium-27_R5B {
+    border-radius: 50%;
+  }
+  
+  /*Preview Popout*/
+  
+  #app-mount .profileBannerPreview-gaX5MP {
+    width: 275px;
+    min-width: 275px;
+  }
+  
+  #app-mount .avatarUploaderInner-mAGe3e {
+    border-radius: 50%;
+  }
+  
+  #app-mount .fakeActivityTitle-ka26mT  {
+    background-color: var(--background-secondary);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+  }
+  
+  #app-mount .fakeActivityLayout-AhfPCa {
+    background-color: var(--background-secondary);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+  }
+  
+  /*Popout Buttons*/
+  
+  .theme-dark .newPopoutActivityStyles button, .theme-dark .newProfileActivityStyles button {
+    background-color: transparent !important;
+    border: 1px solid #4F545C;
+  }
+  
+  .theme-light .newPopoutActivityStyles button, .theme-light .newProfileActivityStyles button {
+    background-color: transparent !important;
+    color: var(--text-normal) !important;
+    border: 1px solid #BCBEC3;
+  }
+  
+  .theme-dark .newPopoutActivityStyles button:hover, .theme-dark .newProfileActivityStyles button:hover {
+    background-color: transparent !important;
+    border: 1px solid #4F545C;
+  }
+  
+  .theme-light .newPopoutActivityStyles button:hover, .theme-light .newProfileActivityStyles button:hover {
+    background-color: transparent !important;
+    color: var(--text-normal) !important;
+    border: 1px solid #BCBEC3;
+  }
+  
+  .theme-dark .newPopoutActivityStyles button:active, .theme-dark .newProfileActivityStyles button:active {
+    background-color: transparent !important;
+    border: 1px solid #4F545C;
+  }
+  
+  .theme-light .newPopoutActivityStyles button:active, .theme-light .newProfileActivityStyles button:active {
+    background-color: transparent !important;
+    color: var(--text-normal);
+    border: 1px solid #BCBEC3;
+  }
+  
+  /* Active Now*/
+  
+  #app-mount .nowPlayingColumn-1eCBCN {
+    display: none;
+  }
+  
+  /*Dislike These Things*/
+  
+  #app-mount .profileBadges-2pItdR,
+  #app-mount .pencilContainer-18TrEJ,
+  #app-mount .applicationInstallButton-taCWKH {
+    display: none;
+  }
+  
+  /*Message Bar Line
+  
+  #app-mount .attachButton-_ACFSu {
+    padding: 12px;
+  }
+  
+  .theme-dark .textArea-2CLwUE::before {
+    background-color: var(--background-modifier-accent);
+  }
+  
+  .theme-light .textArea-2CLwUE::before {
+    background-color: var(--background-modifier-accent);
+  }
+  
+  #app-mount .textArea-2CLwUE::before {
+    position: absolute;
+    display: inline-block;
+    height: 65%;
+    width: 1px;
+    margin-top: auto;
+    content: '';
+  }
+  
+  #app-mount .slateTextArea-27tjG0,
+  #app-mount .placeholder-1_mJY1 {
+    padding-left: 10px;
+  }
+  
+  */
+  
+  /*2nd Attachment Line*/
+  
+  #app-mount .attachWrapper-3slhXI {
+    border-right: 2px solid var(--background-primary);
+  }
+  
+  #app-mount .attachButton-_ACFSu {
+    padding: 10px 12px;
+  }
+  
+  #app-mount .placeholder-1_mJY1, .slateTextArea-27tjG0 {
+    padding-left: 10px;
+  }
+  
+  #app-mount .separator-3ng7S5::before {
+    display: none;
+  }
+  
+  #app-mount .scrollableContainer-15eg7h .divider-2rZFJK {
+    border-top: 2px solid var(--background-primary);
+  }
+  
+  /*Searchbar*/
+  
+  #app-mount .searchResultsWrap-5RVOkx {
+    z-index: 0;
+  }
+  
+  #app-mount .searchBar-zdmu7v {
+    background-color: var(--channeltextarea-background);
+  }
+  
+  .theme-dark .searchResult-O9NDji {
+    border: 2px solid var(--background-secondary-alt);
+  }
+  
+  .theme-light .searchResult-O9NDji {
+    border: 2px solid var(--background-modifier-accent);
+  }
+  
+  .theme-dark .searchHeader-1r_ZSh {
+    background-color: var(--background-secondary);
+    border-bottom: 1px solid #25272A;
+  }
+  
+  .theme-light .searchHeader-1r_ZSh {
+    background-color: var(--background-secondary);
+    border-bottom: 1px solid var(--background-modifier-accent);
+  }
+  
+  /*Searching*/
+  
+  #app-mount .searchHeader-1r_ZSh {
+    padding: 0px 16px;
+  }
+  
+  #app-mount .searchHeader-1r_ZSh, .searchHeaderTabList-3CZMQB {
+    align-items: unset;
+  }
+  
+  #app-mount .totalResults-2On644 {
+    display: flex;
+    align-items: center;
+  }
+  
+  #app-mount .searchHeader-1r_ZSh .side-2ur1Qk .item-3XjbnG {
+    display: flex;
+    align-items: center;
+    border-radius: 0px;
+    border-bottom: 2px solid transparent;
+    margin-bottom: 0px;
+  }
+  
+  .theme-dark .searchHeader-1r_ZSh .side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP), .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP) {
+    background-color: Transparent !important;
+    border-bottom: 2px solid #FFFb !important;
+  }
+  
+  .theme-dark .searchHeader-1r_ZSh .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {
+    background-color: Transparent !important;
+    border-bottom: 2px solid #FFF !important;
+  }
+  
+  .theme-light .searchHeader-1r_ZSh .side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP), .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP) {
+    background-color: Transparent !important;
+    border-bottom: 2px solid #4f5660 !important;
+  }
+  
+  .theme-light .searchHeader-1r_ZSh .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG {
+    background-color: Transparent !important;
+    border-bottom: 2px solid #060607 !important;
+  }
+  
+  /*Threads*/
+  
+  #app-mount .chat-2ZfjoI.threadSidebarOpen-1LSXvU,
+  #app-mount .container-3XgAHv {
+    border-radius: 0px;
+  }
+  
+  #app-mount .container-3XgAHv {
+    box-shadow: -4px 0 8px 2px #0002;
+  }
+  
